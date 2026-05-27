@@ -104,7 +104,7 @@ It might ask if you want to continue connecting — type `yes`. If it says "Hi Y
 ### Step 1: Clone this repo to your local machine
 
 ```bash
-git clone git@github.com:CarterPerez-dev/log-analyzer.git
+git clone git@github.com:Doverly/project-log-analyzer.git
 cd log-analyzer
 ```
 
